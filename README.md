@@ -16,6 +16,6 @@ Before "run" comand on eclipse:
 
 2 - Change the line code 20 in the archive (embaralharpalavras/src/palavrasEmbaralhadas/BancoDePalavras.java), putting your especific local storage.
 
-// HERE->>>>>> String caminhoArquivo = "D:\\DESENVOLVIMENTO\\Curso JAVA ITA\\Trabalho semana 6\\Trabalho final\\PalavrasTrabalho.txt";
+// HERE->>>>>> String caminhoArquivo = "D:\\.........\\PalavrasTrabalho.txt";
 
 3- run the project on eclipse
