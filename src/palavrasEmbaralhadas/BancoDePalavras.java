@@ -17,7 +17,7 @@ public class BancoDePalavras {
 	public HashMap<Integer, String> carregaInicialBancoDePalavrasArquivo() throws IOException  {
 		
 		String linha = new String();
-		String caminhoArquivo = "D:\\DESENVOLVIMENTO\\Curso JAVA ITA\\Trabalho semana 6\\Trabalho final\\PalavrasTrabalho.txt";
+		String caminhoArquivo = "D:\\...(put your archive)..\\PalavrasTrabalho.txt";
 		FileReader leitorDeArquivo = new FileReader(caminhoArquivo);
 		bufferDeArquivo = new BufferedReader(leitorDeArquivo);
 		int i = 1;
